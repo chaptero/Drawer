@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="Drawer Icon" src="https://github.com/user-attachments/assets/26395d9f-1b04-4cf1-8d01-31ae98bd8ba3" />
+<img width="64" height="64" alt="Drawer Icon" src="https://github.com/user-attachments/assets/26395d9f-1b04-4cf1-8d01-31ae98bd8ba3" />
 
 # Drawer
 
