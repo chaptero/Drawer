@@ -1,5 +1,7 @@
 <img width="256" height="64" alt="Drawer1" src="https://github.com/user-attachments/assets/5c7d0816-ed65-47a5-84c4-b5ca5e90f698" />
 
+<img width="556" height="512" alt="Drawer in action" src="https://github.com/user-attachments/assets/5852bf72-08d4-47f4-9c8f-5bec0cd990f9" />
+
 
 # Drawer
 
