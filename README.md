@@ -42,6 +42,12 @@ Drawer is modelled on the overflow arrow in the Windows system tray: the chevron
 
 Drawer should run from the Applications folder. Some menu bar managers hide the icons of apps started from other folders.
 
+## Homebrew
+
+```sh
+brew install --cask chaptero/tap/drawer
+```
+
 ## Using it
 
 | To do this | Do this |
