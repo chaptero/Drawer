@@ -10,7 +10,7 @@ Drawer is modelled on the overflow arrow in the Windows system tray: the chevron
 
 <!-- Add a screen recording here -->
 <p align="center">
-<img width="556" height="512" alt="Drawer in action" src="https://github.com/user-attachments/assets/c50c81eb-813c-45dc-92fa-2ef09a9cc906" />
+<img width="556" height="512" alt="Drawer in action" src="https://github.com/user-attachments/assets/514dbb9a-ad85-4faf-9742-c314e8adcac3" />
 </p> 
 
 ## What it does
