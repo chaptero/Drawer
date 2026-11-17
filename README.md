@@ -8,9 +8,9 @@ A drawer for your Mac's menu bar. Tuck the icons you don't want to look at into 
 
 Drawer is modelled on the overflow arrow in the Windows system tray: the chevron always sits at the left end of your menu bar icons, and everything you choose to put away lives behind it.
 
-<!-- Add a screenshot or short screen recording here: docs/screenshot.png -->
+<!-- Add a screen recording here -->
 <p align="center">
-<img width="556" height="512" alt="Drawer in action" src="https://github.com/user-attachments/assets/5852bf72-08d4-47f4-9c8f-5bec0cd990f9" />
+<img width="556" height="512" alt="Drawer in action" src="https://github.com/user-attachments/assets/c50c81eb-813c-45dc-92fa-2ef09a9cc906" />
 </p> 
 
 ## What it does
