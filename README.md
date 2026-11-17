@@ -90,17 +90,7 @@ The key works only on the Mac the device code came from. Moving to a new Mac mea
 
 ## Troubleshooting
 
-**The menu bar stays down in full screen.** macOS sometimes gets stuck showing the menu bar (and an app's toolbar) in full screen instead of letting them slide away. Drawer leaves the menu bar alone while an app is in full screen and for a few seconds either side of it. If it happens, try these in order before restarting:
-
-```sh
-killall MenuBarAgent
-```
-
-```sh
-killall Dock
-```
-
-Both restart a part of macOS that relaunches by itself within a second or two; nothing is lost. If it keeps happening, the file `~/Library/Application Support/Drawer/activity.log` records what Drawer did to the menu bar and when, which helps track down the cause.
+**The menu bar stays down in full screen.** macOS sometimes gets stuck showing the menu bar (and an app's toolbar) in full screen instead of letting them slide away. Right-click the chevron and click **Reset Menu Bar** to run a command to 
 
 ## Known limitations
 
