@@ -2,10 +2,6 @@
 <img width="256" height="64" alt="Drawer1" src="https://github.com/user-attachments/assets/5c7d0816-ed65-47a5-84c4-b5ca5e90f698" />
 </p>
 
-<p align="center">
-<img width="556" height="512" alt="Drawer in action" src="https://github.com/user-attachments/assets/5852bf72-08d4-47f4-9c8f-5bec0cd990f9" />
-</p> 
-
 # Drawer
 
 A drawer for your Mac's menu bar. Tuck the icons you don't want to look at into a glass drawer that drops down from a single chevron, and open any of them from there.
@@ -13,6 +9,9 @@ A drawer for your Mac's menu bar. Tuck the icons you don't want to look at into 
 Drawer is modelled on the overflow arrow in the Windows system tray: the chevron always sits at the left end of your menu bar icons, and everything you choose to put away lives behind it.
 
 <!-- Add a screenshot or short screen recording here: docs/screenshot.png -->
+<p align="center">
+<img width="556" height="512" alt="Drawer in action" src="https://github.com/user-attachments/assets/5852bf72-08d4-47f4-9c8f-5bec0cd990f9" />
+</p> 
 
 ## What it does
 
