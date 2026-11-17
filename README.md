@@ -87,22 +87,6 @@ A license is for one Mac. To buy one:
 
 The key works only on the Mac the device code came from. Moving to a new Mac means asking for a new key. Keys are checked on your Mac; no account or internet connection is needed. The device code is a scrambled fingerprint of the Mac's hardware ID and does not reveal the ID itself.
 
-## Building from source
-
-You need Xcode 26 or later.
-
-```sh
-git clone <this repository>
-cd <repository folder>
-open Drawer.xcodeproj
-```
-
-Select your own team under **Signing & Capabilities**, then build. Two scripts cover the common cases:
-
-- `scripts/dev-install.sh` builds a development copy with test hooks and installs it to `/Applications`.
-- `scripts/ship.sh` builds the shipping copy and packages `dist/Drawer.dmg`.
-
-License keys are signed with Ed25519. The app carries only the public key; `scripts/license-tool.swift` issues keys with a private key that is kept outside the repository. If you fork Drawer, run `swift scripts/license-tool.swift init` and put your own public key in `Drawer/Licensing.swift`.
 
 ## Troubleshooting
 
