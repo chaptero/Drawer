@@ -1,0 +1,43 @@
+Drawer License
+
+Copyright (c) 2026 chaptero. All rights reserved.
+
+Drawer is proprietary software. It is not open source. This license covers the
+Drawer application distributed through this repository's releases and through
+the chaptero/tap Homebrew tap.
+
+1. Trial
+   You may download, install and use Drawer free of charge for a trial period
+   of 7 days.
+
+2. Paid license
+   After the trial, continued use requires a license key purchased from the
+   developer (see the README for how to buy one). A license key is personal,
+   does not expire, and is valid on one Mac. A replacement key for a new Mac
+   can be requested from the developer.
+
+3. What you may do
+   - Install and use Drawer on your own Mac under the terms above.
+   - Share links to this repository or its releases.
+
+4. What you may not do
+   - Sell, rent, sublicense or redistribute Drawer or license keys.
+   - Modify Drawer, or remove or bypass its trial or license checks.
+   - Publish license keys, or tools or instructions for creating them.
+
+5. Third-party software
+   Drawer includes Sparkle (https://sparkle-project.org), used under the MIT
+   license. Sparkle's license and copyright notices apply to Sparkle itself.
+
+6. No warranty
+   Drawer is provided "as is", without warranty of any kind, express or
+   implied, including the warranties of merchantability, fitness for a
+   particular purpose and non-infringement. In no event shall the author be
+   liable for any claim, damages or other liability arising from the use of,
+   or inability to use, Drawer.
+
+7. Changes
+   These terms may change in future versions of Drawer. The terms that came
+   with the version you use apply to that version.
+
+Questions: message @Drawer_app on Telegram (https://t.me/Drawer_app).
